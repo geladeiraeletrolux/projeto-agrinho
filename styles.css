@@ -1,0 +1,4 @@
+body{background-color: rgb(74, 197, 74);}
+body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
+body{text-align: center;}
+footer{text-align: left;}
