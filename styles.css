@@ -1,4 +1,6 @@
 body{background-color: rgb(74, 197, 74);}
 body{background-image: linear-gradient(to direçãoDoGradiente, PrimeiraCordoGradiente, SegundaCorDoGradiente);}
 body{text-align: center;}
+body{font-family: Arial, Helvetica, sans-serif;}
 footer{text-align: left;}
+body{font-size: 30;}
